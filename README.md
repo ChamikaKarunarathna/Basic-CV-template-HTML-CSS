@@ -1,5 +1,5 @@
 # Basic-CV-template-HTML-CSS
-- A basic CV template using HTML and CSS is a user-friendly and versatile template that is designed to help job seekers create a professional and polished CV. It is built using HTML (Hypertext Markup Language) and CSS (Cascading Style Sheets), which provide the structure and design of the template respectively. HTML is used to structure the content of the CV, while CSS is used to create the visual layout and style of the template.
+- A basic CV template using HTML and CSS is a user-friendly and versatile template that is designed to help job seekers create a professional and polished CV (resume). It is built using HTML (Hypertext Markup Language) and CSS (Cascading Style Sheets), which provide the structure and design of the template respectively. HTML is used to structure the content of the CV, while CSS is used to create the visual layout and style of the template.
 
 - The template is easy to customize and allows users to create a visually appealing and well-organized CV. It is fully responsive, which means it adapts to the screen size of the device it's being viewed on, making it easy to read and navigate on any device. This is crucial in today's job market as more and more companies are using online recruitment platforms and it's important that your CV looks good on any device.
 
